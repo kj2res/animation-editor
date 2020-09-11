@@ -1,0 +1,5 @@
+{
+    "name": "modd/animation-editor",
+    "type": "project",
+    "require": {"php": "7.4"}
+}
