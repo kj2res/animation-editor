@@ -5,6 +5,12 @@
 npm install
 ```
 
+
+### Run the PHP Server
+```
+npm run php
+```
+
 ### Compiles and hot-reloads for development
 ```
 npm run serve
